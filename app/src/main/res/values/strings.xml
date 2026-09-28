@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Flappy Bird</string>
+    <string name="score">Score</string>
+    <string name="best_score">Best Score</string>
+    <string name="game_over">Game Over</string>
+    <string name="tap_to_fly">Tap to Fly</string>
+    <string name="tap_to_restart">Tap to Restart</string>
+    <string name="get_ready">Get Ready!</string>
+    <string name="medal_bronze">Bronze Medal</string>
+    <string name="medal_silver">Silver Medal</string>
+    <string name="medal_gold">Gold Medal</string>
+    <string name="medal_platinum">Platinum Medal</string>
+</resources>

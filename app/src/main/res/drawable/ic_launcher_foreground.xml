@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Bird Body Outline & Fill -->
+    <!-- Bird Body Shadow/Rim -->
+    <path
+        android:fillColor="#E59B20"
+        android:pathData="M34,54 C34,67 45,74 58,74 C71,74 78,65 78,54 C78,51 77,48 75,45 C65,58 45,62 34,54 Z" />
+
+    <!-- Bird Main Body -->
+    <path
+        android:fillColor="#FFD338"
+        android:pathData="M54,34 C41,34 32,43 32,54 C32,65 42,74 56,74 C68,74 76,66 76,54 C76,43 66,34 54,34 Z" />
+
+    <!-- Bird Body Outline -->
+    <path
+        android:strokeColor="#2C2428"
+        android:strokeWidth="3.2"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M54,34 C41,34 32,43 32,54 C32,65 42,74 56,74 C68,74 76,66 76,54 C76,43 66,34 54,34 Z" />
+
+    <!-- Cute Blush -->
+    <path
+        android:fillColor="#FFA07A"
+        android:pathData="M58,58 A4,3 0 1 0 66,58 A4,3 0 1 0 58,58 Z" />
+
+    <!-- Belly Accent -->
+    <path
+        android:fillColor="#FFF6CC"
+        android:pathData="M37,56 C36,63 43,69 52,70 C44,68 38,63 37,56 Z" />
+
+    <!-- Wing -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#2C2428"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M32,52 C32,46 39,45 44,48 C48,51 47,58 42,60 C37,62 32,59 32,52 Z" />
+
+    <!-- Big Eye White -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:strokeColor="#2C2428"
+        android:strokeWidth="3"
+        android:pathData="M59,44 A8,9 0 1 0 75,44 A8,9 0 1 0 59,44 Z" />
+
+    <!-- Eye Pupil -->
+    <path
+        android:fillColor="#2C2428"
+        android:pathData="M68,44 A3.5,4.5 0 1 0 75,44 A3.5,4.5 0 1 0 68,44 Z" />
+
+    <!-- Eye Glint -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M70,41 A1.2,1.5 0 1 0 72.4,41 A1.2,1.5 0 1 0 70,41 Z" />
+
+    <!-- Upper Beak -->
+    <path
+        android:fillColor="#F4511E"
+        android:strokeColor="#2C2428"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M69,49 L84,53 C86,54 85,57 82,58 L68,58 Z" />
+
+    <!-- Lower Beak -->
+    <path
+        android:fillColor="#E64A19"
+        android:strokeColor="#2C2428"
+        android:strokeWidth="3"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M68,58 L80,58 C81,61 79,63 77,63 L67,61 Z" />
+
+</vector>

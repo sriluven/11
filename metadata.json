@@ -1,0 +1,6 @@
+{
+  "name": "Flappy Bird",
+  "description": "Classic 2D Flappy Bird arcade game with physics simulation, customizable birds, medals, and high score tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
